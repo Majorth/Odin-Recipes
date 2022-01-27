@@ -1,0 +1,18 @@
+img {
+    height: 600px;
+    width: 600px;
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center {
+    text-align: center;
+    background-color: pink;
+
+}
+
+.negative {
+    color: white;
+    background-color: black;
+}

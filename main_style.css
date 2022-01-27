@@ -1,0 +1,16 @@
+img {
+    height: 600px;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    text-align: center;
+    background-color: blue;
+}
+
+.recenter {
+    text-align: center;
+}
